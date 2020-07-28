@@ -1,0 +1,3 @@
+a48xxx***APIKEY***xxxxxxxxxf091
+https://api.cognitive.microsofttranslator.com/
+centralindia
